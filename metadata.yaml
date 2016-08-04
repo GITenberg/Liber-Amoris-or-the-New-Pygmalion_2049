@@ -1,0 +1,30 @@
+_repo: Liber-Amoris-or-the-New-Pygmalion_2049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
+description: ''
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hazlitt, William, 1778-1830 -- Relations with women'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Love-letters'
+- !lcsh 'Imaginary letters'
+- !lcsh 'Hazlitt, William, 1778-1830 -- Correspondence'
+- !lcsh 'Authors, English -- 19th century -- Correspondence'
+- GITenberg
+title: Liber Amoris, Or, The New Pygmalion
+url: http://www.gutenberg.org/ebooks/2049
